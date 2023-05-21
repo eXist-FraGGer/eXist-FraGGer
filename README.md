@@ -6,6 +6,8 @@ I am a full stack developer
 
 ### Front-end
 
+---
+
   <img align="left" alt="react" width="40px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
   <img align="left" alt="react-native" width="50px" style="padding-left: 10px;" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
@@ -18,18 +20,28 @@ I am a full stack developer
 <br />
 <br />
 
+---
+
 ### Back-end
+
+---
 
   <img align="left" alt="node" width="40px" style="padding-left: 10px; object-fit: contain;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
   <img align="left" alt="express" width="40px" style="padding-left: 10px; object-fit: contain;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 <img align="left" alt="nest" width="40px" style="padding-left: 10px; object-fit: contain;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+
+<img align="left" alt="socket" width="100px" height="40px" style="padding-left: 10px; object-fit: cover;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" />
           
 <br />
 <br />
 
+---
+
 ### Databases
+
+---
 
   <img align="left" alt="mysql" width="40px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="left" alt="MariaDB" width="40px" style="padding-left: 10px;" src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" />
@@ -46,9 +58,41 @@ I am a full stack developer
 <br />
 <br />
 
+---
+
+### Developer Tools
+
+---
+  
+  <img align="left" alt="docker" width="40px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="left" alt="babel" width="40px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+  <img align="left" alt="chai" width="40px" style="padding-left: 10px;" src="https://cdn.worldvectorlogo.com/logos/chai.svg" />
+  <img align="left" alt="mocha" width="40px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img align="left" alt="webpack" width="40px" style="padding-left: 10px; object-fit: contain;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" />
+  <img align="left" alt="gulp" width="40px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+  <img align="left" alt="rollupjs" width="30px" style="padding-left: 10px;" src="https://cdn.worldvectorlogo.com/logos/rollupjs.svg" />
+  <img align="left" alt="sentry" width="30px" style="padding-left: 10px;" src="https://cdn.worldvectorlogo.com/logos/sentry-3.svg" />
+  <img align="left" alt="prometheus" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+  <img align="left" alt="grafana" width="30px" style="padding-left: 10px;" src="https://cdn.worldvectorlogo.com/logos/grafana.svg" />
+  <img align="left" alt="kubernetes" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+  <img align="left" alt="sonarqube" width="80px" style="padding-left: 10px; object-fit: contain;" src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" />
+
+  <img align="left" alt="grafana" width="30px" style="padding-left: 10px;" src="" />
+  <img align="left" alt="grafana" width="30px" style="padding-left: 10px;" src="" />
+
+
+<br />
+<br />
+
+---
 
 ## Cloud Experience
   
-  <img align="left" alt="aws" height="40px" style="padding-left: 10px; object-fit: contain;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="left" alt="aws" height="40px" style="padding-left: 10px; object-fit: contain;" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
   <img align="left" alt="aws" height="40px" style="padding-left: 10px; object-fit: contain;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+    <img align="left" alt="salesforce" height="40px" style="padding-left: 10px; object-fit: contain;" src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" />
+  <img align="left" alt="digitalocean" height="40px" style="padding-left: 10px; object-fit: contain;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
+  <img align="left" alt="heroku" height="40px" style="padding-left: 10px; object-fit: contain;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
+          
+          
           
