@@ -1,6 +1,6 @@
 # 👨‍💻 Ivan Sarokin
 
-I am a full stack developer with experience 
+I am a full stack developer with deep experience at all stages of application development.
 
 ## 🧰 Languages and Tools
 
