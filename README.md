@@ -16,7 +16,7 @@ I am a full stack developer
           
 
 <br />
-
+<br />
 
 ### Back-end
 
@@ -26,6 +26,7 @@ I am a full stack developer
 
 <img align="left" alt="nest" width="40px" style="padding-left: 10px; object-fit: contain;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
           
+<br />
 <br />
 
 ### Databases
@@ -40,9 +41,11 @@ I am a full stack developer
   <img align="left" alt="Elastic Search" width="40px" style="padding-left: 10px;" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" />
   <img align="left" alt="Mongo DB" width="40px" style="padding-left: 10px;" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
   <img align="left" alt="MSSql" width="60px" style="padding-left: 10px; object-fit: contain;" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" />
-   <img align="left" alt="Firebase" width="40px" style="padding-left: 10px;" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
-    
+  <img align="left" alt="Firebase" width="30px" style="padding-left: 10px;" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
+
 <br />
+<br />
+
 
 ## Cloud Experience
   
